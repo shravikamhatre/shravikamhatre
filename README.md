@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-## socials
+## find me here
 
 <br/>
 
@@ -60,11 +60,18 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/shravikamhtre">
     <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:shravikamh4tre@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="40" style="filter: invert(1);" />
   </a>
 </p>
