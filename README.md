@@ -1,56 +1,70 @@
-<div style="background-color:#000000; padding:40px;">
+<!-- TYPING HEADER (AUTO DARK / LIGHT MODE) -->
 
-<h1 align="center" style="color:white;">hi, i'm shravika.</h1>
+<p align="center">
 
-<br/>
+<!-- Dark Mode (white text) -->
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=34&center=true&vCenter=true&width=700&lines=hi%2C+im+shravika" alt="Typing SVG" />
 
-<!-- SOCIALS CONTAINER -->
+</p>
 
-<div style="background-color:#FFB6E6; padding:20px; border-radius:20px; margin-bottom:30px;">
+<p align="center">
 
-<h2 style="color:black;">🌐 socials</h2>
+<!-- Light Mode (black text) -->
+<img src="https://readme-typing-svg.herokuapp.com?color=000000&size=34&center=true&vCenter=true&width=700&lines=hi%2C+im+shravika#gh-light-mode-only" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shravika-mhatre-1364bb321/)
-[![X](https://img.shields.io/badge/X-pink?style=for-the-badge&logo=x&logoColor=black)](https://x.com/shravikamhtre)
-[![Email](https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shravikamh4tre@gmail.com)
+</p>
 
-</div>
 
-<!-- TECH STACK CONTAINER -->
-
-<div style="background-color:#B8F2E6; padding:20px; border-radius:20px; margin-bottom:30px;">
-
-<h2 style="color:black;">🛠 tech stack</h2>
-
-![C++](https://img.shields.io/badge/C++-pastelblue?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![C](https://img.shields.io/badge/C-pastelblue?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-pastelblue?style=for-the-badge&logo=typescript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-pastelblue?style=for-the-badge&logo=openjdk&logoColor=black)
-![React](https://img.shields.io/badge/React-pastelblue?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/NodeJS-pastelblue?style=for-the-badge&logo=node.js&logoColor=black)
-![NextJS](https://img.shields.io/badge/NextJS-pastelblue?style=for-the-badge&logo=next.js&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-pastelblue?style=for-the-badge&logo=tailwind-css&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-pastelblue?style=for-the-badge&logo=figma&logoColor=black)
-![Framer](https://img.shields.io/badge/Framer-pastelblue?style=for-the-badge&logo=framer&logoColor=black)
-
-</div>
-
-<!-- STATS CONTAINER -->
-
-<div style="background-color:#FFD6A5; padding:20px; border-radius:20px;">
-
-<h2 style="color:black;">📊 stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=shravikamhatre&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=shravikamhatre&theme=transparent&hide_border=true)
+## tech stack
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shravikamhatre&theme=transparent&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="55"/>
+</p>
 
-</div>
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="55"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="55"/>
+</p>
+
+<br/>
+<br/>
+
+## socials
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shravika-mhatre-1364bb321/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/shravikamhtre">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shravikamh4tre@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+</p>
